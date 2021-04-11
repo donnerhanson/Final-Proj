@@ -77,7 +77,7 @@ Then enter the command:
  ## Contact
 
  Donner Hanson -  hanso127@mail.chapman.edu  
- David Aaron - https://github.com/dacsharp
+ David Aaron - https://github.com/dacsharp  
  Our Original Project Link: [https://github.com/dacsharp/Final-Proj/](https://github.com/dacsharp/Final-Proj/)  
 
  <!-- MARKDOWN LINKS & IMAGES -->
