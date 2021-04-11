@@ -35,7 +35,6 @@ A demo of the running game can be found on youtube [here](https://youtu.be/Fn6ii
  * [Getting Started](#getting-started)
    * [Prerequisites](#prerequisites)
    * [Installation](#installation)
- * [Example](#example)
  * [Contact](#contact)
 
 
