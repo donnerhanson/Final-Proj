@@ -23,6 +23,11 @@
 
 
 
+ <!-- USAGE EXAMPLES -->
+ ## Demo
+A demo of the running game can be found on youtube [here](https://youtu.be/Fn6iisIWF14)  
+
+
  <!-- TABLE OF CONTENTS -->
  ## Table of Contents
 
@@ -30,7 +35,6 @@
  * [Getting Started](#getting-started)
    * [Prerequisites](#prerequisites)
    * [Installation](#installation)
- * [Usage](#usage)
  * [Example](#example)
  * [Contact](#contact)
 
@@ -70,9 +74,6 @@ Then enter the command:
  Open the .sln in Visual Studio Code with MonoGame and XNA and click run.
  
 
- <!-- USAGE EXAMPLES -->
- ## Usage
-A demo of the running game can be found on youtube [here](https://youtu.be/Fn6iisIWF14)  
  <!-- CONTACT -->
  ## Contact
 
