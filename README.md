@@ -76,7 +76,7 @@ A demo of the running game can be found on youtube [here](https://youtu.be/Fn6ii
  <!-- CONTACT -->
  ## Contact
 
- Donner Hanson -  hanso127@mail.chapman.edu
+ Donner Hanson -  hanso127@mail.chapman.edu  
  David Aaron - https://github.com/dacsharp
  Our Original Project Link: [https://github.com/dacsharp/Final-Proj/](https://github.com/dacsharp/Final-Proj/)  
 
