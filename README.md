@@ -18,6 +18,7 @@
  
 
    <p align="center"> A FlappyBird Look-Alike in C# </p>
+      <p align="center"> Authored By David Aaron and Donner Hanson </p>
  </p>
 
 
@@ -76,8 +77,8 @@ A demo of the running game can be found on youtube [here](https://youtu.be/Fn6ii
  ## Contact
 
  Donner Hanson -  hanso127@mail.chapman.edu
-
- Project Link: [https://github.com/dacsharp/Final-Proj/](https://github.com/dacsharp/Final-Proj/)  
+ David Aaron - https://github.com/dacsharp
+ Our Original Project Link: [https://github.com/dacsharp/Final-Proj/](https://github.com/dacsharp/Final-Proj/)  
 
  <!-- MARKDOWN LINKS & IMAGES -->
  <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
